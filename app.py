@@ -1,7 +1,7 @@
 import cv2
 import pytesseract
 import pandas as pd
-import PyMuPDF as fitz
+import fitz  #PyMuPDF
 import json
 import os
 import logging

@@ -2,7 +2,7 @@ Flask
 gunicorn
 opencv-python
 pytesseract
-pymupdf
+pymupdf  # Controlla che sia scritto in minuscolo
 pandas
 fpdf
 numpy
