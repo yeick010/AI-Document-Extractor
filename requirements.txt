@@ -1,0 +1,9 @@
+Flask
+gunicorn
+opencv-python
+pytesseract
+pymupdf
+pandas
+fpdf
+numpy
+requests
